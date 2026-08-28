@@ -36,8 +36,7 @@ print(f"Threat Score : {score}/100")
 print(f"Risk Level : {risk}")
 print("\nDetected Events:")
 if events:
-    print("events:")
-    for event in set(events):
+     for event in set(events):
         print(f"- {event}")
 else:
     print("No suspicious activity detected.")
