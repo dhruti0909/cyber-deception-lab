@@ -24,3 +24,8 @@ Behaviour Correlation
 Threat Score
        ↓
 Security Dashboard
+
+## 🌐 Live Demo
+
+[Open the live Cyber Deception Lab](https://cyber-deception-lab.onrender.com)
+
